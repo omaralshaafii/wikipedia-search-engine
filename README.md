@@ -1,7 +1,5 @@
 # wikipedia-search-engine
 
-hello there, your task is to use debounce technique with the search input on the top of the page.
+Hello there, It is a task from @intern2grow to use debounce technique with a wikipedia search input.
 
-fork the repository and start working on it.
-
-best of luck.
+Good bye.
